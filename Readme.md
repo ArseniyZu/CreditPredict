@@ -1309,7 +1309,7 @@ df.SEX.hist()
 
 
     
-![png](output_39_1.png)
+![png](images/output_39_1.png)
     
 
 
@@ -1348,7 +1348,7 @@ df.MARRIAGE.hist()
 
 
     
-![png](output_42_1.png)
+![png](images/output_42_1.png)
     
 
 
@@ -1386,7 +1386,7 @@ df.Pay1.hist()
 
 
     
-![png](output_45_1.png)
+![png](images/output_45_1.png)
     
 
 
@@ -1408,7 +1408,7 @@ df.Pay3.hist()
 
 
     
-![png](output_47_1.png)
+![png](images/output_47_1.png)
     
 
 
@@ -1425,9 +1425,8 @@ sns.distplot(df.Bill_amt1, kde=True,bins=200, color="blue")
 
 
 
-
+![png](images/output_48_1.png)
     
-![png](output_48_1.png)
     
 
 
@@ -1461,7 +1460,7 @@ sns.distplot(df.Pay_amt1, kde=True,bins=200, color="blue")
 
 
     
-![png](output_51_1.png)
+![png](images/output_51_1.png)
     
 
 
@@ -1495,7 +1494,7 @@ sns.distplot(df.Pay_amt2, kde=True,bins=200, color="blue")
 
 
     
-![png](output_54_1.png)
+![png](images/output_54_1.png)
     
 
 
@@ -1529,7 +1528,7 @@ sns.distplot(df.Pay_amt3, kde=True,bins=200, color="blue")
 
 
     
-![png](output_57_1.png)
+![png](images/output_57_1.png)
     
 
 
@@ -1565,7 +1564,7 @@ sns.barplot(data=df, x=temp.index, y=temp.values)
 
 
     
-![png](output_61_1.png)
+![png](images/output_61_1.png)
     
 
 
@@ -1836,7 +1835,7 @@ plt.xlabel('Предсказанные значения')
 
 
     
-![png](output_83_1.png)
+![png](images/output_83_1.png)
     
 
 
@@ -1981,7 +1980,7 @@ plt.xlabel('Предсказанные значения')
 
 
     
-![png](output_96_1.png)
+![png](images/output_96_1.png)
     
 
 
@@ -2104,7 +2103,7 @@ plt.xlabel('Предсказанные значения')
 
 
     
-![png](output_105_1.png)
+![png](images/output_105_1.png)
     
 
 
