@@ -1225,7 +1225,7 @@ sns.heatmap(df.corr(), cmap=cmap, vmax=1, center=0, square=True, linewidths=.5, 
 
 
     
-![png](https://github.com/ArseniyZu/CreditPredict/raw/main/output_33_1.png)
+![png](images/output_33_1.png)
     
 
 
